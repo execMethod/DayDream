@@ -1,0 +1,4 @@
+#Tue May 02 00:25:00 JST 2017
+base.0=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

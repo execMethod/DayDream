@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/chk_off_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/chk_off_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/rss_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/rss_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/cog_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/cog_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/plus_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/plus_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/spin_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/spin_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/rss_ora.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/rss_ora.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/drawable-hdpi/chk_on_src.png",
+        "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/drawable-hdpi/chk_on_src.png"
+    }
+]

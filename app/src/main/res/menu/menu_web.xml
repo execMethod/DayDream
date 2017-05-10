@@ -1,0 +1,20 @@
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<!--
+  <item
+  android:id="@+id/menuweb_plus"
+  android:icon="@drawable/plus_src"
+  android:orderInCategory="100"
+  android:showAsAction="ifRoom"
+  android:title="キャプチャ"/>
+
+  <item
+  android:id="@+id/menumain_cog"
+  android:icon="@drawable/cog_src"
+  android:orderInCategory="101"
+  android:showAsAction="ifRoom"
+  android:title="設定"/>
+-->
+</menu>
+

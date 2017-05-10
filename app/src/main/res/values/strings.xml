@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">OrangeReader</string>
+  
+  <string name="tst_load">データを読み出します</string>
+  <string name="tst_fin">データの読み込みが完了しました</string>
+  
+  <string name="dig_btn_register">登録する</string>
+  <string name="dig_btn_delete">削除する</string>
+  <string name="dig_btn_ok">OK</string>
+  <string name="dig_btn_cancel">キャンセル</string>
+  
+  <string name="dig_msg_register">「%1$s」を登録しますか？</string>
+  <string name="dig_msg_register_err">データの読み込みに失敗しました</string>
+  <string name="dig_msg_delete">「%1$s」を削除しますか？</string>
+  
+  
+  <string name="shelf_btnupd">更新</string>
+  <string name="shelf_btnadd">追加</string>
+  <string name="shelf_btncfg">設定</string>
+  
+  <string name="book_updateFmt">最終更新日：yyyy/MM/dd HH:mm:ss</string>
+  <string name="book_init">データがありません</string>
+  <string name="book_strt">データを準備しています</string>
+  <string name="book_load">データを読み込んでいます</string>
+  <string name="book_errr">データの読み込みに失敗しました</string>
+  
+</resources>
+

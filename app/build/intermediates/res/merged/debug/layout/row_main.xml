@@ -1,0 +1,70 @@
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:padding="2dp"
+>
+  <ImageView
+    android:id="@+id/rowmain_icon"
+    android:src="@drawable/rss_src"
+    android:layout_margin="5dp"
+    android:layout_centerVertical="true"
+    android:layout_alignParentLeft="true"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+  />
+
+  <TextView
+    android:id="@+id/rowmain_num"
+    android:text="0"
+    android:textSize="6pt"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:layout_margin="3dp"
+    android:textColor="@color/black"
+    android:gravity="center"
+    android:layout_centerVertical="true"
+    android:layout_alignParentRight="true"
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+  />
+
+  <TextView
+    android:id="@+id/rowmain_title"
+    android:text="title"
+    android:textSize="6pt"
+    android:textStyle="bold"
+    android:padding="2dp"
+    android:textColor="@color/black"
+    android:layout_alignParentTop="true"
+    android:layout_toRightOf="@id/rowmain_icon"
+    android:layout_toLeftOf="@id/rowmain_num"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+
+  <TextView
+    android:id="@+id/rowmain_desc"
+    android:text="description"
+    android:textSize="6pt"
+    android:padding="2dp"
+    android:textColor="@color/black"
+    android:layout_below="@id/rowmain_title"
+    android:layout_toRightOf="@id/rowmain_icon"
+    android:layout_toLeftOf="@id/rowmain_num"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+  
+  <TextView
+    android:id="@+id/rowmain_update"
+    android:text="lastupdate."
+    android:textSize="6pt"
+    android:padding="2dp"
+    android:textColor="@color/grey4"
+    android:layout_below="@id/rowmain_desc"
+    android:layout_toRightOf="@id/rowmain_icon"
+    android:layout_toLeftOf="@id/rowmain_num"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+  
+</RelativeLayout>
+
