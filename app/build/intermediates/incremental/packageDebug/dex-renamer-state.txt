@@ -1,7 +1,0 @@
-#Tue May 02 00:25:01 JST 2017
-base.0=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba76a70f45c53974fa14f121e70ccd7bd213fbe1
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99904b9609d89cd0f7ad3a256e84483b7a158faa/classes.dex
-base.1=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_99904b9609d89cd0f7ad3a256e84483b7a158faa
-file.0=/Users/neighborcell/Dev/DayDream/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba76a70f45c53974fa14f121e70ccd7bd213fbe1/classes.dex

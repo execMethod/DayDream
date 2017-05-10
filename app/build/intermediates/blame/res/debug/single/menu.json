@@ -4,10 +4,6 @@
         "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menushelf.xml",
-        "source": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\src\\main\\res\\menu\\menushelf.xml"
-    },
-    {
         "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/menu/menu_web.xml",
         "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/menu/menu_web.xml"
     }

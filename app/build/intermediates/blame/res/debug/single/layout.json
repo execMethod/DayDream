@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowbook.xml",
-        "source": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\src\\main\\res\\layout\\rowbook.xml"
-    },
-    {
         "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/layout/row_main.xml",
         "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/layout/row_main.xml"
-    },
-    {
-        "merged": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activshelf.xml",
-        "source": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\src\\main\\res\\layout\\activshelf.xml"
     },
     {
         "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/layout/activ_web.xml",
@@ -18,9 +10,5 @@
     {
         "merged": "/Users/neighborcell/Dev/DayDream/app/build/intermediates/res/merged/debug/layout/activ_main.xml",
         "source": "/Users/neighborcell/Dev/DayDream/app/src/main/res/layout/activ_main.xml"
-    },
-    {
-        "merged": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activstore.xml",
-        "source": "/Users/neighborcell/Dev/DayDream/C:\\Dev\\Dropbox\\dev\\DayDream\\app\\src\\main\\res\\layout\\activstore.xml"
     }
 ]
